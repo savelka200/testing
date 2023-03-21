@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test2Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-20T13:37:41" hostname="DESKTOP-00K7GQT" time="0.035">
+  <properties/>
+  <testcase name="mainright()" classname="test2Test" time="0.035"/>
+  <system-out><![CDATA[15
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
